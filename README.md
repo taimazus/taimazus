@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🌟 احد اسماعیل‌زاده</h1>
+  <h1>🌟 احد اسمعیل زاده</h1>
   <h2>Ahad Esmaeilzadeh</h2>
   
   <a href="https://git.io/typing-svg">
@@ -119,5 +119,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ Built with precision and continuous engineering discipline by <a href="https://github.com/taimazus">Ahad Esmaeilzadeh (احد اسماعیل‌زاده)</a></sub>
+  <sub>⭐️ Built with precision and continuous engineering discipline by <a href="https://github.com/taimazus">Ahad Esmaeilzadeh (احد اسمعیل زاده)</a></sub>
 </div>
